@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://kentcdodds.com">
+  <img
+    alt="Helping people make the world a better place through quality software"
+    src=""
+  />
+</a>
+
